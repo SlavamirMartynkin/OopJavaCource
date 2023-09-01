@@ -3,7 +3,7 @@ package Race;
 import java.util.ArrayList;
 
 public class Main {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) {
         ArrayList<RaceElements> raceElements = new ArrayList<>();
         raceElements.add(new RunningLane("дистанция1", 100));
         raceElements.add(new Wall("стена1", 1));
@@ -25,15 +25,15 @@ public class Main {
 
         for (int j = 0; j < raceMembers.size(); j++) {
             for (int i = 0; i < raceElements.size(); i++) {
-                if(raceElements.get(i).getTtype()){
-                    if(!raceMembers.get(j).run(raceElements.get(i).getInfo())){
+                if (raceElements.get(i).getTtype()) {
+                    if (!raceMembers.get(j).run(raceElements.get(i).getInfo())) {
                         raceMembers.remove(raceMembers.get(j));
                         j--;
                         break;
                     }
                 }
-                if(!raceElements.get(i).getTtype()){
-                    if(!raceMembers.get(j).jump(raceElements.get(i).getInfo())){
+                if (!raceElements.get(i).getTtype()) {
+                    if (!raceMembers.get(j).jump(raceElements.get(i).getInfo())) {
                         raceMembers.remove(raceMembers.get(j));
                         j--;
                         break;
