@@ -29,12 +29,14 @@ public class Main {
                     if(!raceMembers.get(j).run(raceElements.get(i).getInfo())){
                         raceMembers.remove(raceMembers.get(j));
                         j--;
+                        break;
                     }
                 }
                 if(!raceElements.get(i).getTtype()){
                     if(!raceMembers.get(j).jump(raceElements.get(i).getInfo())){
                         raceMembers.remove(raceMembers.get(j));
                         j--;
+                        break;
                     }
                 }
             }
