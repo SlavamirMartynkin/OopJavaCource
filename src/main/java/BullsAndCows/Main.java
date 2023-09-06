@@ -45,9 +45,6 @@ public class Main {
                         "\\OopJavaCource\\src\\main\\java\\BullsAndCows", "logFile.txt");
                 FileReader fr = new FileReader(logFile);
                 BufferedReader br = new BufferedReader(fr);
-                //while (br.readLine()!= null){
-                //    System.out.println(br.readLine());
-                //}
                 br.lines().forEach(System.out::println);
         }
     }
