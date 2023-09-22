@@ -5,7 +5,10 @@ import Calculator.View.RationalView;
 
 import java.io.IOException;
 import java.util.Scanner;
-
+/**
+ * @apiNote принцмп единой ответственности
+ * класс отвечает за действия с рациональными числами
+ */
 public class ActionForRational implements ArithmeticAction<RationalNumber> {
     private double res;
 
@@ -46,28 +49,28 @@ public class ActionForRational implements ArithmeticAction<RationalNumber> {
             String[] splitExample = example.split("\\+");
             String a = splitExample[0];
             String b = splitExample[1];
-            view.sendOnConsole(racCalc.sum(a, b));
+            view.sendOnConsole(String.valueOf(racCalc.sum(a, b)));
             logWriter.writeLog(a + " + " + b + " = " + racCalc.sum(a, b));
         }
         if (example.contains("-")) {
             String[] splitExample = example.split("\\-");
             String a = splitExample[0];
             String b = splitExample[1];
-            view.sendOnConsole(racCalc.dif(a, b));
+            view.sendOnConsole(String.valueOf(racCalc.dif(a, b)));
             logWriter.writeLog(a + " - " + b + " = " + racCalc.dif(a, b));
         }
         if (example.contains("*")) {
             String[] splitExample = example.split("\\*");
             String a = splitExample[0];
             String b = splitExample[1];
-            view.sendOnConsole(racCalc.mult(a, b));
+            view.sendOnConsole(String.valueOf(racCalc.mult(a, b)));
             logWriter.writeLog(a + " * " + b + " = " + racCalc.mult(a, b));
         }
         if (example.contains("/")) {
             String[] splitExample = example.split("\\/");
             String a = splitExample[0];
             String b = splitExample[1];
-            view.sendOnConsole(racCalc.div(a, b));
+            view.sendOnConsole(String.valueOf(racCalc.div(a, b)));
             logWriter.writeLog(a + " / " + b + " = " + racCalc.div(a, b));
         }
         if (example.contains("change")) {

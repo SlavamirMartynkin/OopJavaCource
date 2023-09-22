@@ -31,6 +31,8 @@ public class StartMenu {
                 break;
             case "2":
                 System.out.println("Выбран калькулятор комплексных чисел!");
+                System.out.println("Внимание! Для расчетов с комплексными числами воспользуйтесь " +
+                        "следующим форматом записи выражений: a1+b1i + a2+b2i");
                 logWriter.writeLog("Запущен калькулятор комплексных чисел");
                 ActionForComplex complCalc = new ActionForComplex();
                 type = false;
