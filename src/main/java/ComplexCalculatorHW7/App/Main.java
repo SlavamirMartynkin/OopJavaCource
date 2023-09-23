@@ -1,7 +1,5 @@
 package ComplexCalculatorHW7.App;
 
-import ComplexCalculatorHW7.Service.AdapterToInt;
-import ComplexCalculatorHW7.Service.Calculate;
 import ComplexCalculatorHW7.View.StartCalculator;
 
 import java.io.IOException;
