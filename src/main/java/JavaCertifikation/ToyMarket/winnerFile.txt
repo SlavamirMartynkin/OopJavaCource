@@ -1,0 +1,54 @@
+Wed Oct 18 14:53:58 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:53:59 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:53:59 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:55:17 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:55:17 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:55:17 GMT+03:00 2023; 
+ID: 20, Name: bus, Quantity: 1, Chance: 20
+Wed Oct 18 14:55:30 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:55:30 GMT+03:00 2023; 
+ID: 20, Name: bus, Quantity: 1, Chance: 20
+Wed Oct 18 14:55:30 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:55:34 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:55:34 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:55:34 GMT+03:00 2023; 
+ID: 20, Name: bus, Quantity: 1, Chance: 20
+Wed Oct 18 14:55:37 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:55:37 GMT+03:00 2023; 
+ID: 20, Name: bus, Quantity: 1, Chance: 20
+Wed Oct 18 14:55:37 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:56:18 GMT+03:00 2023; 
+ID: 2, Name: constructor, Quantity: 1, Chance: 50
+Wed Oct 18 14:56:18 GMT+03:00 2023; 
+ID: 21, Name: airbus, Quantity: 1, Chance: 10
+Wed Oct 18 14:56:18 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:56:23 GMT+03:00 2023; 
+ID: 20, Name: bus, Quantity: 1, Chance: 20
+Wed Oct 18 14:56:23 GMT+03:00 2023; 
+ID: 21, Name: airbus, Quantity: 1, Chance: 10
+Wed Oct 18 14:56:23 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:56:30 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:56:30 GMT+03:00 2023; 
+ID: 3, Name: animal, Quantity: 1, Chance: 40
+Wed Oct 18 14:56:30 GMT+03:00 2023; 
+ID: 2, Name: constructor, Quantity: 1, Chance: 50
+Wed Oct 18 14:57:07 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:57:07 GMT+03:00 2023; 
+ID: 1, Name: car, Quantity: 1, Chance: 50
+Wed Oct 18 14:57:07 GMT+03:00 2023; 
+ID: 2, Name: constructor, Quantity: 1, Chance: 50
