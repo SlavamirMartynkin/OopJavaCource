@@ -40,6 +40,7 @@
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/2f88e045-8e64-4fd6-9fcf-a73e3a1ba68a)
 
 8. Создать таблицы с иерархией из диаграммы в БД
 
