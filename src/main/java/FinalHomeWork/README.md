@@ -20,6 +20,7 @@
 ![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/546f5ba8-139f-45c1-b561-60fb07afa5e4)
 
 2. Создать директорию, переместить файл туда.
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/6575ccda-63f6-4740-90f9-bf96e6bd3c93)
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
