@@ -43,19 +43,24 @@
 ![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/2f88e045-8e64-4fd6-9fcf-a73e3a1ba68a)
 
 8. Создать таблицы с иерархией из диаграммы в БД
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/9e9c99d3-8691-4b08-8799-084df0162e25)
 
 9. Заполнить низкоуровневые таблицы именами(животных), командами
 которые они выполняют и датами рождения
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/03589dfc-b90c-4b32-b9da-11a251292398)
 
 10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой
 питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/b6e12fdc-3fb0-4ee3-9922-12d5ca5ffc65)
 
 11.Создать новую таблицу “молодые животные” в которую попадут все
 животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью
 до месяца подсчитать возраст животных в новой таблице
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/c30f87fe-9ba6-44ba-8d80-cdc42fdffa3e)
 
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/b52459f8-1c61-4a5b-b6c0-a7786053e4ed)
 
 13.Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 
