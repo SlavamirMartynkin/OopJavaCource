@@ -24,10 +24,13 @@
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/d68cf296-1ea5-45af-930f-4d85e604ee42)
 
 4. Установить и удалить deb-пакет с помощью dpkg.
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/806a54e0-bbd9-4545-9a20-cc29ba46c7cc)
 
 5. Выложить историю команд в терминале ubuntu
+![image](https://github.com/SlavamirMartynkin/OopJavaCource/assets/129394288/69c3673d-ff2b-4fe1-8510-2d365a6555e7)
 
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
